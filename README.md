@@ -1,0 +1,2 @@
+# magma
+An animated website
